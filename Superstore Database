@@ -25,7 +25,8 @@ VALUES
     (14, 'Cutlery Set', 'Kitchen Supplies', 34.50, 40, 4.4),
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
 
-#This is my first project, I use SQL to query the Superstore database to retreive information about the items that were solde and their prices.
+
+#This is my first project, I used SQL to query the Superstore database to retreive information about the items that were sold and their prices.
 
 #Use a SELECT statement to order the items by price.
 SELECT *
